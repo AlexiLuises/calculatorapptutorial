@@ -1,3 +1,7 @@
+This was written following a react calculator tutorial: https://www.youtube.com/watch?v=DgRrrOt0Vr8&list=LL&index=1&ab_channel=WebDevSimplified
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
