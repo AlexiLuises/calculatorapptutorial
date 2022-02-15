@@ -94,7 +94,6 @@ function reducer(state, { type, payload }) {
         // removes last digit from current operand
         currentOperand: state.currentOperand.slice(0, -1),
       };
-      break;
 
     case ACTIONS.EVALUATE:
       if (
